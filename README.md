@@ -1,2 +1,3 @@
 # Arduino_IoT
 Design of system for remote control of electrical appliances over the Internet
+The purpose of this project is to present designing and prototyping a system for remote control of electrical appliances over the Internet using Arduino. Arduino is open source hardware which makes it suitable for designing a variety of devices, ranging from simple thermostat to aircrafts. It is determined that the client-server architecture for designing and prototyping an Arduino based system is the most suitable. Also, in this project are proposed microcontroller program in C language and website for the system.
